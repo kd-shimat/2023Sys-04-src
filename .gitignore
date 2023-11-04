@@ -1,6 +1,6 @@
-# composer.lock
-# Dockerfile
-# Selenium
-# sql
-# test
-# vendor/
+composer.lock
+Dockerfile
+Selenium
+sql
+test
+vendor/
